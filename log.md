@@ -1,30 +1,21 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: January 2nd, 2018
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: I've gone through many excercies on FreeCodeCamp. I've also reviewed some C++ from outside sources.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** The excercises I went through have been pretty straight forward. I should take more notes on topics I may need to review more than once. I've also tracked my progress using Todait.
 
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to work:** 
+1. [Use Hex Code to Mix Colors](https://www.freecodecamp.org/challenges/use-hex-code-to-mix-colors)
+2. [Use Abbreviated Hex Code](https://www.freecodecamp.org/challenges/use-abbreviated-hex-code)
+3. [Use RGB values to Color Elements](https://www.freecodecamp.org/challenges/use-rgb-values-to-color-elements)
+4. [Use RGB to Mix Colors](https://www.freecodecamp.org/challenges/use-rgb-to-mix-colors)
+5. [Use Responsive Design with Bootstrap Fluid Containers](https://www.freecodecamp.org/challenges/use-responsive-design-with-bootstrap-fluid-containers)
+6. [Make Images Mobile Responsive](https://www.freecodecamp.org/challenges/make-images-mobile-responsive)
+7. [Center Text with Bootstrap](https://www.freecodecamp.org/challenges/center-text-with-bootstrap)
+8. [Create a Bootstrap Button](https://www.freecodecamp.org/challenges/create-a-bootstrap-button)
+9. [Create a Block Element Bootstrap Button](https://www.freecodecamp.org/challenges/create-a-block-element-bootstrap-button)
+10. [Taste the Bootstrap Button Color Rainbow](https://www.freecodecamp.org/challenges/taste-the-bootstrap-button-color-rainbow)
+11. [Call out Optional Actions with Button Info](https://www.freecodecamp.org/challenges/call-out-optional-actions-with-button-info)
+12. [Warn your Users of a Dangerous Action](https://www.freecodecamp.org/challenges/warn-your-users-of-a-dangerous-action)
