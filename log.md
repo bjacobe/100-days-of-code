@@ -2,7 +2,7 @@
 
 ### Day 1: January 2nd, 2018
 
-**Today's Progress**: I've gone through many excercies on FreeCodeCamp. I've also reviewed some C++ from outside sources.
+**Today's Progress**: I've gone through many excercies on FreeCodeCamp.
 
 **Thoughts:** The excercises I went through have been pretty straight forward. I should take more notes on topics I may need to review more than once. I've also tracked my progress using Todait.
 
