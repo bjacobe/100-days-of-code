@@ -25,3 +25,13 @@
 16. [Create a Custom Heading](https://www.freecodecamp.org/challenges/create-a-custom-heading)
 17. [Add Font Awesome Icons to our Buttons](https://www.freecodecamp.org/challenges/add-font-awesome-icons-to-our-buttons)
 18. [Add Font Awesome Icons to all of our Buttons](https://www.freecodecamp.org/challenges/add-font-awesome-icons-to-all-of-our-buttons)
+
+
+### [SKIP]: January 3rd, 2018
+
+**Today's Progress** I was bedridden all day today. No coding today but focusing on recovering and being 100%. This will be my one and only skip/cheat day where I don't code.
+
+**Thoughts:** Although I didn't code, I listened to some audio books I downloaded online. I've already read Don Norman's "Design of Everyday Things" but listening to the audio book is a whole other experience.
+
+**Link to work:**
+1. [Design of Everyday Things by Don Norman] (https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654/ref=asap_bc?ie=UTF8)
